@@ -22,6 +22,10 @@ After that you just need to run the script with this command :
 
 `bash file_organizer.sh /path/to/your/root/folder`
 
+### LICENSE
+
+This program is licensed under MIT. See the [LICENSE](LICENSE) file for more information.
+
 ---
 
-Enjoy !
+<b>Enjoy !</b>
